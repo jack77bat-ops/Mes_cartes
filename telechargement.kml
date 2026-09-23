@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="user_data.zone_excavation_peu_profonde1790174163961" id="user_data.zone_excavation_peu_profonde1790174163961">
+	<SimpleField name="perimetre" type="float"></SimpleField>
+	<SimpleField name="superficie" type="float"></SimpleField>
+</Schema>
+<Folder><name>user_data.zone_excavation_peu_profonde1790174163961</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#user_data.zone_excavation_peu_profonde1790174163961">
+		<SimpleData name="perimetre">684.463456109434</SimpleData>
+		<SimpleData name="superficie">12241.467628924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-73.4409683221521,45.4603546482731 -73.4399991806689,45.4610243470781 -73.4387433109364,45.4601414692067 -73.4397696397781,45.459430699933 -73.4399332228034,45.4595428390072 -73.4399149685249,45.4595605204194 -73.4401148963371,45.4596964841963 -73.4400983805614,45.459708678241 -73.4402844191095,45.4598382634167 -73.4403120763518,45.4598251559558 -73.4403423368153,45.4598457235321 -73.4403241899828,45.459856809514 -73.4404992191093,45.4599713645326 -73.4404816576585,45.4599799869439 -73.440579772938,45.4600590599725 -73.4397607932757,45.4606100146151 -73.4400336752547,45.4608089538944 -73.4406052154456,45.4604160272361 -73.4407034636768,45.460490902173 -73.4409420388216,45.4603339512182 -73.4409683221521,45.4603546482731</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#user_data.zone_excavation_peu_profonde1790174163961">
+		<SimpleData name="perimetre">125.819334696575</SimpleData>
+		<SimpleData name="superficie">593.946621943763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-73.440842112408,45.4601329841002 -73.4407324153526,45.4600578739 -73.4411966187822,45.4597342747792 -73.4413019082687,45.4598019716121 -73.440842112408,45.4601329841002</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
