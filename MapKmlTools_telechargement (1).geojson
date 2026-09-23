@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4391965049468,
+          45.4599913974393
+        ]
+      },
+      "properties": {}
+    }
+  ],
+  "properties": {
+    "description": "Created with MapKmlTools.com"
+  }
+}
