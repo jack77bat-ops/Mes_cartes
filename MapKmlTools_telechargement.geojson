@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4394832039151,
+          45.4605606262592
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4399302729586,
+          45.4598812112803
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4400542726213,
+          45.4608377713868
+        ]
+      },
+      "properties": {}
+    }
+  ],
+  "properties": {
+    "description": "Created with MapKmlTools.com"
+  }
+}
